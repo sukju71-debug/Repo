@@ -1,0 +1,6 @@
+{
+  "name": "aT 한국농수산식품유통공사 | 농식품 스토어 & 아카이브",
+  "description": "오설록 감성의 프리미엄 디자인으로 구성된 한국농수산식품유통공사(aT) 메인 페이지 및 농식품 아카이브 블로그 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
